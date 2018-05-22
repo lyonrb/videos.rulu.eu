@@ -1,10 +1,10 @@
 # Lyon.rb website
 
-This repository holds the Middleman source code for [Lyon.rb website](http://lyonrb.fr).
+This repository holds the Middleman source code for [videos.lyonrb.fr](http://videos.lyonrb.fr/).
 
 ## Usage
 
-1. Clone this repository: `git clone git@github.com:lyonrb/website.git lyonrb-website`
+1. Clone this repository: `git clone git@github.com:lyonrb/videos.rulu.eu.git`
 2. Install Ruby requirements: `bundle install`
 3. Run server for development: `bundle exec middleman server`
 4. Build static website: `bundle exec middleman build`
